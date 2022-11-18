@@ -3,10 +3,54 @@
     <title>teamchitraksha</title>
     <link href="https://viki9146.github.io/TeamChitraksha/feed.xml" rel="self" />
     <link href="https://viki9146.github.io/TeamChitraksha" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-11-18T21:41:48+05:30</updated>
     <author>
         <name>vivek</name>
     </author>
     <id>https://viki9146.github.io/TeamChitraksha</id>
 
+    <entry>
+        <title>About Team Chitraksha</title>
+        <author>
+            <name>vivek</name>
+        </author>
+        <link href="https://viki9146.github.io/TeamChitraksha/about-team-chitraksha.html"/>
+        <id>https://viki9146.github.io/TeamChitraksha/about-team-chitraksha.html</id>
+
+        <updated>2022-11-18T21:41:48+05:30</updated>
+            <summary>
+                <![CDATA[
+                    TEAM CHITRAKSHA is The Official Media Club of Shri Guru Gobind Singhji&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    TEAM CHITRAKSHA is The Official Media Club of Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded<br><br>This club mainly provides a platform for students who wants to develop new skills and also want to upgrade themselves in photography and videography section.<br><br>Also, Chitraksha plays an integral role in all media-related activities.  <br><br>We also give opportunities to students to come in the contact or handle the highly equipped devices such as professional DSLR’s and powerful iMac operating systems to assist in club activities. Moreover, students can gain a valuable experience and also develop many skills such as creative thinking, collaborating and also get leadership qualities in them which will help them in their future. They also get responsible by volunteering for the duties assigned to them during college events.<br><br>We hope that students gain a good experience, as well as support their dreams their passion for different areas of media. We also hope that we can influence people around us to appreciate the media in a better way, and also encourage them to take part in these activities as well.<br><br>Chitraksha is all about engaging people in one bond through its boundless love.
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.16-PM.jpeg" data-size="1280x853">
+        <img loading="lazy" src="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.16-PM-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      <figcaption>Sairaj Sir celebration</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.18.jpeg" data-size="1232x816">
+        <img loading="lazy" src="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.18-thumbnail.jpeg" height="509" width="768" alt="" >
+      </a>
+      <figcaption>shivjaynti with Team</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.18-PM.jpeg" data-size="1280x960">
+        <img loading="lazy" src="https://viki9146.github.io/TeamChitraksha/media/posts/1/gallery/WhatsApp-Image-2022-11-18-at-9.38.18-PM-thumbnail.jpeg" height="576" width="768" alt="" >
+      </a>
+      <figcaption>Harsh Sir's Birthday celebration</figcaption>
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
 </feed>

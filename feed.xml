@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>vdsblog</title>
+    <title>teamchitraksha</title>
     <link href="https://viki9146.github.io/TeamChitraksha/feed.xml" rel="self" />
     <link href="https://viki9146.github.io/TeamChitraksha" />
     <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
-        <name>vivek deshmukh</name>
+        <name>vivek</name>
     </author>
     <id>https://viki9146.github.io/TeamChitraksha</id>
 

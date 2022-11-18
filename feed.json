@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "vdsblog",
+    "description": "",
+    "home_page_url": "https://viki9146.github.io/TeamChitraksha",
+    "feed_url": "https://viki9146.github.io/TeamChitraksha/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "vivek deshmukh"
+    },
+    "items": [
+    ]
+}

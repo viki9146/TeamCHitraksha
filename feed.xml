@@ -3,12 +3,36 @@
     <title>teamchitraksha</title>
     <link href="http://teamchitraksha.tech/feed.xml" rel="self" />
     <link href="http://teamchitraksha.tech" />
-    <updated>2022-12-10T21:43:57+05:30</updated>
+    <updated>2022-12-17T14:10:24+05:30</updated>
     <author>
         <name>vivek</name>
     </author>
     <id>http://teamchitraksha.tech</id>
 
+    <entry>
+        <title>trial blog</title>
+        <author>
+            <name>vivek</name>
+        </author>
+        <link href="http://teamchitraksha.tech/trial-blog/"/>
+        <id>http://teamchitraksha.tech/trial-blog/</id>
+
+        <updated>2022-12-17T14:10:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                    hdgjshfs fsdjhfsdx sdfjjhsdbfs ffsdhfsd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hdgjshfs</p>
+<p>fsdjhfsdx</p>
+<p>sdfjjhsdbfs</p>
+<p>ffsdhfsd</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Independence Day</title>
         <author>

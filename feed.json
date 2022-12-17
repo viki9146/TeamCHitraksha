@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "http://teamchitraksha.tech/trial-blog/",
-            "url": "http://teamchitraksha.tech/trial-blog/",
-            "title": "trial blog",
-            "summary": "hdgjshfs fsdjhfsdx sdfjjhsdbfs ffsdhfsd",
-            "content_html": "<p>hdgjshfs</p>\n<p>fsdjhfsdx</p>\n<p>sdfjjhsdbfs</p>\n<p>ffsdhfsd</p>\n<p> </p>",
-            "author": {
-                "name": "vivek"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-17T14:10:24+05:30",
-            "date_modified": "2022-12-17T14:10:24+05:30"
-        },
-        {
             "id": "http://teamchitraksha.tech/independence-day/",
             "url": "http://teamchitraksha.tech/independence-day/",
             "title": "Independence Day",

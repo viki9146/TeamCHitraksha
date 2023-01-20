@@ -41,19 +41,6 @@
             "date_modified": "2023-01-20T17:19:13+05:30"
         },
         {
-            "id": "http://teamchitraksha.tech/workshop/",
-            "url": "http://teamchitraksha.tech/workshop/",
-            "title": "WorkShop",
-            "author": {
-                "name": "Mr. Vivek Deshmukh"
-            },
-            "tags": [
-                   "Workshops"
-            ],
-            "date_published": "2023-01-10T19:23:52+05:30",
-            "date_modified": "2023-01-20T17:31:54+05:30"
-        },
-        {
             "id": "http://teamchitraksha.tech/foundation-day/",
             "url": "http://teamchitraksha.tech/foundation-day/",
             "title": "42nd Foundation Day",
@@ -158,6 +145,21 @@
             ],
             "date_published": "2022-11-18T21:47:47+05:30",
             "date_modified": "2022-12-10T21:43:57+05:30"
+        },
+        {
+            "id": "http://teamchitraksha.tech/clubs-and-events/",
+            "url": "http://teamchitraksha.tech/clubs-and-events/",
+            "title": "Clubs &amp; Events",
+            "summary": "We came up with a video to know all the clubs in&hellip;",
+            "content_html": "<p>We came up with a video to know all the clubs in the SGGSIE&amp;T. There are alot of clubs in our institute so there's question infront of newly admitted students which club should I join &amp; our video is the answer to this question. Here's the link for the video : <a class=\"link\" href=\"https://lnkd.in/eQufpGAD?trk=organization_guest_main-feed-card-text\" target=\"_self\" rel=\"nofollow\" data-tracking-control-name=\"organization_guest_main-feed-card-text\" data-tracking-will-navigate=\"\">https://lnkd.in/eQufpGAD</a> We hope you will surely get information about all the clubs in our institute, which will help newly admitted students to join clubs in SGGSIE&amp;T. 🙌 Do Watch!😃 You will definitely like it ..! 🙌</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"689\" height=\"385\" style=\"width: 689px; height: 385px;\" src=\"https://www.youtube.com/embed/M66EKMyCTkw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "http://teamchitraksha.tech/media/posts/2/Screenshot_2022-11-18_21-53-59.png",
+            "author": {
+                "name": "Mr. Vivek Deshmukh"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-18T21:46:10+05:30",
+            "date_modified": "2022-12-10T21:32:37+05:30"
         }
     ]
 }

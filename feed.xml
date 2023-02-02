@@ -3,12 +3,34 @@
     <title>The Media Cell Of SGGSIE&amp;T, Nanded</title>
     <link href="http://teamchitraksha.tech/feed.xml" rel="self" />
     <link href="http://teamchitraksha.tech" />
-    <updated>2023-02-02T13:29:46+05:30</updated>
+    <updated>2023-02-02T13:35:35+05:30</updated>
     <author>
         <name>Mr. Vivek Deshmukh</name>
     </author>
     <id>http://teamchitraksha.tech</id>
 
+    <entry>
+        <title>Events</title>
+        <author>
+            <name>Mr. Vivek Deshmukh</name>
+        </author>
+        <link href="http://teamchitraksha.tech/events-2/"/>
+        <id>http://teamchitraksha.tech/events-2/</id>
+
+        <updated>2023-02-02T13:35:35+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Technical Event Sports Event
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="http://teamchitraksha.tech/authors/pragyaa-23/">Technical Event </a></p>
+<p> </p>
+<p><a href="http://teamchitraksha.tech/authors/zenith-23/">Sports Event</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>74th Republic Day</title>
         <author>
@@ -426,30 +448,6 @@
 <figure class="gallery__item"><a href="http://teamchitraksha.tech/media/posts/5/gallery/1665835965301.jpeg" data-size="800x643"><img loading="lazy" src="http://teamchitraksha.tech/media/posts/5/gallery/1665835965301-thumbnail.jpeg" alt="" width="768" height="617"></a></figure>
 <figure class="gallery__item"><a href="http://teamchitraksha.tech/media/posts/5/gallery/1665835972060.jpeg" data-size="800x600"><img loading="lazy" src="http://teamchitraksha.tech/media/posts/5/gallery/1665835972060-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>All about SGGSIE&amp;T, Nanded</title>
-        <author>
-            <name>Mr. Vivek Deshmukh</name>
-        </author>
-        <link href="http://teamchitraksha.tech/all-about-sggsieandt-nanded/"/>
-        <id>http://teamchitraksha.tech/all-about-sggsieandt-nanded/</id>
-        <media:content url="http://teamchitraksha.tech/media/posts/4/Screenshot_2022-11-18_21-53-40.png" medium="image" />
-
-        <updated>2023-02-02T13:29:46+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://teamchitraksha.tech/media/posts/4/Screenshot_2022-11-18_21-53-40.png" alt="" />
-                    Hello people🤩⚡ Wondering about the recent status of SGGSIE&amp;T? Here is a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="http://teamchitraksha.tech/media/posts/4/Screenshot_2022-11-18_21-53-40.png" class="type:primaryImage" alt="" /></p>
-                <p>Hello people🤩⚡ Wondering about the recent status of SGGSIE&amp;T? Here is a video that says about Placement records, hostel, other facilities and extracurricular activities at the campus. We hope you will surely get all the information about the college. Do watch !! Like 👍 Share🤳 and Subscribe</p>
-<figure class="post__video"><iframe loading="lazy" width="692" height="388" style="width: 692px; height: 388px;" src="https://www.youtube.com/embed/6hawgPteJ2g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

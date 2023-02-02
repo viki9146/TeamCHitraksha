@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://teamchitraksha.tech/events-2/",
+            "url": "http://teamchitraksha.tech/events-2/",
+            "title": "Events",
+            "summary": "Technical Event Sports Event",
+            "content_html": "<p><a href=\"http://teamchitraksha.tech/authors/pragyaa-23/\">Technical Event </a></p>\n<p> </p>\n<p><a href=\"http://teamchitraksha.tech/authors/zenith-23/\">Sports Event</a></p>",
+            "author": {
+                "name": "Mr. Vivek Deshmukh"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-02T13:35:35+05:30",
+            "date_modified": "2023-02-02T13:35:35+05:30"
+        },
+        {
             "id": "http://teamchitraksha.tech/74th-republic-day/",
             "url": "http://teamchitraksha.tech/74th-republic-day/",
             "title": "74th Republic Day",
@@ -144,21 +158,6 @@
             ],
             "date_published": "2022-11-18T21:50:35+05:30",
             "date_modified": "2022-12-10T21:32:15+05:30"
-        },
-        {
-            "id": "http://teamchitraksha.tech/all-about-sggsieandt-nanded/",
-            "url": "http://teamchitraksha.tech/all-about-sggsieandt-nanded/",
-            "title": "All about SGGSIE&amp;T, Nanded",
-            "summary": "Hello people🤩⚡ Wondering about the recent status of SGGSIE&amp;T? Here is a&hellip;",
-            "content_html": "<p>Hello people🤩⚡ Wondering about the recent status of SGGSIE&amp;T? Here is a video that says about Placement records, hostel, other facilities and extracurricular activities at the campus. We hope you will surely get all the information about the college. Do watch !! Like 👍 Share🤳 and Subscribe</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"692\" height=\"388\" style=\"width: 692px; height: 388px;\" src=\"https://www.youtube.com/embed/6hawgPteJ2g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "http://teamchitraksha.tech/media/posts/4/Screenshot_2022-11-18_21-53-40.png",
-            "author": {
-                "name": "Mr. Vivek Deshmukh"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-18T21:48:39+05:30",
-            "date_modified": "2023-02-02T13:29:46+05:30"
         }
     ]
 }

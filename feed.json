@@ -14,15 +14,14 @@
             "id": "http://teamchitraksha.tech/events-2/",
             "url": "http://teamchitraksha.tech/events-2/",
             "title": "Events",
-            "summary": "Technical Event Sports Event",
-            "content_html": "<p><a href=\"http://teamchitraksha.tech/authors/pragyaa-23/\">Technical Event </a></p>\n<p> </p>\n<p><a href=\"http://teamchitraksha.tech/authors/zenith-23/\">Sports Event</a></p>",
+            "content_html": "<p><a href=\"https://example.com/\"></a><a href=\"http://teamchitraksha.tech/media/posts/23/gallery/Screenshot-2023-02-02-182101.jpg\" data-size=\"534x490\"><img loading=\"lazy\" src=\"http://teamchitraksha.tech/media/posts/23/gallery/Screenshot-2023-02-02-182101-thumbnail.jpg\" alt=\"\" width=\"534\" height=\"490\"></a><a href=\"https://example.com/\"></a><a href=\"http://teamchitraksha.tech/media/posts/23/gallery/zenith-23.jpg\" data-size=\"588x456\"><img loading=\"lazy\" src=\"http://teamchitraksha.tech/media/posts/23/gallery/zenith-23-thumbnail.jpg\" alt=\"\" width=\"588\" height=\"456\"></a></p>\n<p><a href=\"https://example.com/\"><img loading=\"lazy\" src=\"http://teamchitraksha.tech/media/posts/23/gallery/Utsav23-thumbnail.jpg\" alt=\"\" width=\"482\" height=\"543\"></a></p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Mr. Vivek Deshmukh"
             },
             "tags": [
             ],
             "date_published": "2023-02-02T13:35:35+05:30",
-            "date_modified": "2023-02-02T13:35:35+05:30"
+            "date_modified": "2023-02-03T10:26:46+05:30"
         },
         {
             "id": "http://teamchitraksha.tech/74th-republic-day/",

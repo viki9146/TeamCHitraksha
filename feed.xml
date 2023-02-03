@@ -3,7 +3,7 @@
     <title>The Media Cell Of SGGSIE&amp;T, Nanded</title>
     <link href="http://teamchitraksha.tech/feed.xml" rel="self" />
     <link href="http://teamchitraksha.tech" />
-    <updated>2023-02-02T13:35:35+05:30</updated>
+    <updated>2023-02-03T10:26:46+05:30</updated>
     <author>
         <name>Mr. Vivek Deshmukh</name>
     </author>
@@ -17,17 +17,14 @@
         <link href="http://teamchitraksha.tech/events-2/"/>
         <id>http://teamchitraksha.tech/events-2/</id>
 
-        <updated>2023-02-02T13:35:35+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Technical Event Sports Event
-                ]]>
-            </summary>
+        <updated>2023-02-03T10:26:46+05:30</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><a href="http://teamchitraksha.tech/authors/pragyaa-23/">Technical Event </a></p>
+                <p><a href="https://example.com/"></a><a href="http://teamchitraksha.tech/media/posts/23/gallery/Screenshot-2023-02-02-182101.jpg" data-size="534x490"><img loading="lazy" src="http://teamchitraksha.tech/media/posts/23/gallery/Screenshot-2023-02-02-182101-thumbnail.jpg" alt="" width="534" height="490"></a><a href="https://example.com/"></a><a href="http://teamchitraksha.tech/media/posts/23/gallery/zenith-23.jpg" data-size="588x456"><img loading="lazy" src="http://teamchitraksha.tech/media/posts/23/gallery/zenith-23-thumbnail.jpg" alt="" width="588" height="456"></a></p>
+<p><a href="https://example.com/"><img loading="lazy" src="http://teamchitraksha.tech/media/posts/23/gallery/Utsav23-thumbnail.jpg" alt="" width="482" height="543"></a></p>
 <p> </p>
-<p><a href="http://teamchitraksha.tech/authors/zenith-23/">Sports Event</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>

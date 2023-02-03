@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://teamchitraksha.tech/sitemap.xml
+Sitemap: https://teamchitraksha.tech/sitemap.xml

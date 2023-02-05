@@ -3,12 +3,63 @@
     <title>The Media Cell Of SGGSIE&amp;T, Nanded</title>
     <link href="https://teamchitraksha.tech/feed.xml" rel="self" />
     <link href="https://teamchitraksha.tech" />
-    <updated>2023-02-05T21:26:31+05:30</updated>
+    <updated>2023-02-06T01:59:36+05:30</updated>
     <author>
         <name>Mr. Vivek Deshmukh</name>
     </author>
     <id>https://teamchitraksha.tech</id>
 
+    <entry>
+        <title>SEARCH N’ DESTROY (RNXG)</title>
+        <author>
+            <name>Mr. Vivek Deshmukh</name>
+        </author>
+        <link href="https://teamchitraksha.tech/search-n-destroy-rnxg/"/>
+        <id>https://teamchitraksha.tech/search-n-destroy-rnxg/</id>
+        <media:content url="https://teamchitraksha.tech/media/posts/28/Your-paragraph-text-1.jpg" medium="image" />
+
+        <updated>2023-02-06T01:59:36+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://teamchitraksha.tech/media/posts/28/Your-paragraph-text-1.jpg" alt="" />
+                    Date : Saturday, 14 January 2023 Event Name : Search N’ Destroy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://teamchitraksha.tech/media/posts/28/Your-paragraph-text-1.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Date : </strong>Saturday, 14 January 2023<br><strong>Event Name : </strong>Search N’ Destroy (Line Follower Competition)<br><strong>Rank : </strong>RUNNER UP TEAM<br><strong>Venue :</strong> College of Engineering Pune (COEP)<br><strong>Associated with :</strong> RNXG (Official Robo Club of SGGSIE&amp;T,Nanded)</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/28/gallery/Screenshot-2023-02-05-234420.jpg" data-size="683x383"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/28/gallery/Screenshot-2023-02-05-234420-thumbnail.jpg" alt="Above image shows the Autonomous -Bot made by Team" width="683" height="383"></a>
+<figcaption>Above image shows the Autonomous -Bot made by Team</figcaption>
+</figure>
+</div></div>
+<p>This BOT designed to follow a line or path already pre determined by the user. This line or path maybe as simple as physical black line on the white floor. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/28/gallery/1-Trophy.jpg" data-size="522x502"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/28/gallery/1-Trophy-thumbnail.jpg" alt="" width="522" height="502"></a>
+<figcaption>Achievement and Team Members</figcaption>
+</figure>
+</div></div>
+<p>The competition was set for January 14 (Saturday). Search N’ Destroy is a Line<br>Follower competition which was held at College of Engineering, Pune </p>
+<p>A team of five participants consisting of two second year students and three<br>first year students was successful.</p>
+<p><strong>List of participants-</strong></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/28/gallery/participants.jpg" data-size="827x235"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/28/gallery/participants-thumbnail.jpg" alt="" width="768" height="218"></a></figure>
+</div></div>
+<p><strong>Tasks assigned:</strong><br>- Teams must build an autonomous robot which can trace the line.<br>- The path will have 4 checkpoints, 2 of which will be fixed in their positions<br>and the two will be variable checkpoints. It is mandatory to cross all the<br>checkpoints.<br>- The remaining two checkpoints (on the ground only) will be placed just<br>before the commencement of match (before dry run).<br>- The starting procedure of the bot must consist of a simple toggle switch to<br>start the movement. It must not involve giving the bot any manual force or<br>impulse in any direction.<br>- The machine should either stop or trace back after deposition of box in the<br>white space between the gap.<br>- Machine should not enter opponent’s area. Entering an opponent’s area has<br>a penalty of 50 points.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/28/gallery/3-Working.jpg" data-size="591x443"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/28/gallery/3-Working-thumbnail.jpg" alt="" width="591" height="443"></a>
+<figcaption>- Bot on Arena (Black lines on White background)</figcaption>
+</figure>
+</div></div>
+<p>Team from Shri Guru Gobind Singhji Institute of Engineering and Technology.<br>and Being Part of RNXG Official Robo Club of SGGSIE&amp;T<br>The prototype for competition was made by using components as below;<br>1) Arduino Nano (Microcontroller-Board)<br>2) RLS-08 (IR Sensor Module)<br>3) N20-6V-600 Rpm Micro Metal Gear Motor<br>4) Metal Ball Caster Wheel<br>5) L298N 2A Based Motor Driver Module<br>Since the first and second rounds of the competition team was in lead and<br>successfully covers all checkpoints in minimum time.</p>
+<p><strong>Conclusions:<br></strong>The objective of the line following robot is to follow a line on its given path<br>which is obtained for which it uses IR sensor Array (RLS-08) which detects the<br>line and sends the information to Arduino Nano and then to L293N Motor<br>Driver which controls the working of the wheel.<br>COEP Mind spark 2023 gives great opportunity to participate and showcase our<br>programming and intellectual skills.</p>
+<h5 class="align-center"><strong>A word of appreciation to all the participants from Our Team!</strong></h5>
+<p>In a world where technology is constantly evolving, participating in a technical event is a testament to your passion for innovation and problem-solving. You have proven that you have the skills and knowledge necessary to succeed in today's fast-paced, technology-driven world.<br><br>This accomplishment is not just a personal achievement, but it also reflects the strength of your school or college. Your performance showcases the quality of education and training that you have received and is a source of pride for your institution.<br><br>As you move forward in your careers, remember that success is not just about winning awards and recognition. It's about the impact that you make in your communities and the positive difference that you bring to people's lives. Your technical skills are valuable assets and you have the potential to make a real difference in the world.<br><br>Once again, congratulations on your outstanding performance. Your hard work and dedication is truly inspiring and we wish you all the best as you continue to chase your dreams.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Walk On The Right</title>
         <author>
@@ -316,65 +367,6 @@
 </div></div>
 <p><span style="font-weight: 400;">All these delegates removed some of their precious time and guided us. Their efforts for the safety of citizens were really felt as the information shared by them was brief yet covered all the important points related to road safety. Last but not least-</span></p>
 <p class="align-center"><strong>“The future of the road safety movement is not much dependent upon the invention of safety devices as on the improvement of methods of             educating people to the ideal of caution and safety.” </strong></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>42nd Foundation Day</title>
-        <author>
-            <name>Mr. Vivek Deshmukh</name>
-        </author>
-        <link href="https://teamchitraksha.tech/foundation-day/"/>
-        <id>https://teamchitraksha.tech/foundation-day/</id>
-        <media:content url="https://teamchitraksha.tech/media/posts/15/WhatsApp-Image-2022-12-20-at-7.13.55-PM.jpeg" medium="image" />
-
-        <updated>2023-02-02T12:24:25+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://teamchitraksha.tech/media/posts/15/WhatsApp-Image-2022-12-20-at-7.13.55-PM.jpeg" alt="" />
-                    17th of December 2022, Saturday, the NSS unit has arranged our Institute&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://teamchitraksha.tech/media/posts/15/WhatsApp-Image-2022-12-20-at-7.13.55-PM.jpeg" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">17th of December 2022, Saturday, the NSS unit has arranged our Institute Foundation Day. It was the day to remember, cherish, and recognize the students. The illustrious 41 years have seen SGGS contributing to society by giving ethical engineers and research insights. The institute celebrated it with aplomb in the august presence of Sant Baba Sukhwinder Singh Ji, (Gurudwara Langar Sahib Nanded), Dr. P D Jadhav (Former I/C Principal), Prof. B M Naik (Former Principal), Prof. C B Deshpande(Former Principal), Dr. L M Waghmare (Former Director) &amp; Dr. Y V Joshi (Director SGGSIE&amp;T).</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/photo11.jpg" data-size="540x484"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/photo11-thumbnail.jpg" alt="" width="540" height="484"></a></figure>
-</div></div>
-<p><span style="font-weight: 400;">The theme for the 42nd year of our Institute is ‘|| तमसो मा ज्योततर्गमय ||’ presented by the NSS unit. The function started at 11:00 AM with a warm welcome of all honorable guests. Light symbolizes brightness and prosperity. It removes the forces of darkness and gives us positivity. In spiritual words, light means life. So, we can also think of light as giving us a new direction in life. With this noble thought, the function started with lightning of lamps &amp; worshiping ‘Shri Guru Gobind Singh Ji’ by our guests.</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/image11.JPG" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/image11-thumbnail.JPG" alt="" width="682" height="384"></a></figure>
-</div></div>
-<p><span style="font-weight: 400;">Our Institute’s FSDC Club has performed Ganeshwandana &amp; the cultural performance presented by Avaroh-The Musical Club. The program preface &amp; the presentation on the history of our institute were represented by Dr. Mlind Bhalerao, Head of the ExTC Department.</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/fsdc.jpg" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/fsdc-thumbnail.jpg" alt="" width="682" height="384"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/avroh.jpg" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/avroh-thumbnail.jpg" alt="" width="682" height="384"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/DSC00151-2.JPG" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/DSC00151-2-thumbnail.JPG" alt="" width="682" height="384"></a></figure>
-</div></div>
-<p>After this felicitation of guest done by Dr. Y V Joshi, Director SGGSIE&amp;T. </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/F2-2.JPG" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/F2-2-thumbnail.JPG" alt="" width="682" height="384"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/DSC00250.JPG" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/DSC00250-thumbnail.JPG" alt="" width="682" height="384"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/F2-1.jpg" data-size="682x384"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/F2-1-thumbnail.jpg" alt="" width="682" height="384"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/20221217_134037.jpg" data-size="591x443"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/20221217_134037-thumbnail.jpg" alt="" width="591" height="443"></a></figure>
-</div></div>
-<p><span style="font-weight: 400;">The valuable guidance for students was given by Sant Baba Sukhwinder Singh Ji. Dr. P D Jadhav brought back the memories of institute history in his speech. Prof C B Deshpande &amp; Prof B M Naik shared their experiences along with students. Dr. L M Waghmare shared his experience in the institute and gave the advice to utilize and earn the knowledge of technical facilities that are present. Dr. Y V Joshi has expressed his thoughts on the 42nd Institute Foundation Day of our institute. He appreciated the organizers and all the student volunteer committees for organizing this event.</span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/20221217_122201-1.jpg" data-size="591x443"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/20221217_122201-1-thumbnail.jpg" alt="" width="591" height="443"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/h2.jpg" data-size="360x465"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/h2-thumbnail.jpg" alt="" width="360" height="465"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/h3.jpg" data-size="351x465"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/h3-thumbnail.jpg" alt="" width="351" height="465"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/h4.jpg" data-size="336x463"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/h4-thumbnail.jpg" alt="" width="336" height="463"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/h5.jpg" data-size="348x454"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/h5-thumbnail.jpg" alt="" width="348" height="454"></a></figure>
-</div></div>
-<p><span style="font-weight: 400;">Thereafter the felicitation of retired professor, teaching &amp; non-teaching staff has been done by our guests along with our director sir. After all the guest lectures &amp; felicitation of a retired professor, teaching &amp; non-teaching staff speech was over, Dr. P G Jadhav expressed a vote of thanks.</span></p>
-<p>It was the day to remember, cherish, recognize for the students. The function has <br>concluded by singing our National Anthem.</p>
-<p><strong>Glimpses of 42nd Institute Foundation Day ✨ -</strong></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/j1.jpg" data-size="385x282"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/j1-thumbnail.jpg" alt="" width="385" height="282"></a></figure>
-<figure class="gallery__item"><a href="https://teamchitraksha.tech/media/posts/15/gallery/j3-2.jpg" data-size="3024x4032"><img loading="lazy" src="https://teamchitraksha.tech/media/posts/15/gallery/j3-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-</div></div>
 <p> </p>
             ]]>
         </content>
